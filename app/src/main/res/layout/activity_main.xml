@@ -37,7 +37,6 @@
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/header_layout"
         app:itemBackground="@drawable/ic_item_background"
-        app:itemIconTint="@color/colorAccent"
         app:itemTextColor="#ffff"
         app:menu="@menu/drawer_menu" />
 
