@@ -21,4 +21,6 @@
     <string name="social_services_hub_sub">It targets poor and needy families to raise their social level by providing direct support to small income projects for needy families or support for shelter projects and support for orphans</string>
     <string name="drawer_open">drawer open</string>
     <string name="drawer_close">drawer close</string>
+    <string name="retry">retry</string>
+    <string name="error_msg">error acured</string>
 </resources>

@@ -19,4 +19,6 @@
     <string name="waterSub">يستهدف محور السقيا توصيل شبكات المياه بالمنازل الطرفية التي تعاني من أزمات فنية و مادية بالنسبة لتوصيل شبكات المياه بالإضافة إلى تأهيل المدارس الطرفية ببرادات المياه الحرارية و حفر الآبار في المناطق التي تعاني من شح المياه</string>
     <string name="watering_axis">محور السقيا</string>
     <string name="who_we_are">من نحن</string>
+    <string name="retry">اعد المحاولة</string>
+    <string name="error_msg">error acured</string>
 </resources>

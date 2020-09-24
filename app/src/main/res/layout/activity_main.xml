@@ -33,10 +33,11 @@
         android:layout_width="280dp"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:fitsSystemWindows="true"
         android:background="@color/colorAccent"
+        android:fitsSystemWindows="true"
         app:headerLayout="@layout/header_layout"
         app:itemBackground="@drawable/ic_item_background"
+        app:itemIconTint="@color/colorAccent"
         app:itemTextColor="#ffff"
         app:menu="@menu/drawer_menu" />
 

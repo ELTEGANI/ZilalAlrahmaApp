@@ -6,7 +6,8 @@
    android:layout_height="match_parent"
    android:background="@drawable/background_donation"
    android:padding="10dp"
-    tools:context=".ui.Donation.DonationFragment">
+    tools:context=".ui.donation.DonationFragment"
+    android:id="@+id/layout">
 
     <androidx.cardview.widget.CardView
             android:id="@+id/cardViewCompany"
@@ -46,7 +47,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="10dp"
                         android:layout_marginRight="10dp"
-                        android:buttonTint="@color/color1"
+                        app:buttonTint="@color/color1"
                         android:text="@string/sudani"
                         android:textColor="@color/color1" />
 
@@ -56,7 +57,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginEnd="10dp"
                         android:layout_marginRight="10dp"
-                        android:buttonTint="@color/color1"
+                        app:buttonTint="@color/color1"
                         android:text="@string/mtn"
                         android:textColor="@color/color1" />
 
@@ -98,7 +99,7 @@
 
     <Button
         android:id="@+id/buttonDonation"
-        android:layout_width="100dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="64dp"
         android:background="@drawable/ic_button_background_no_icon"
